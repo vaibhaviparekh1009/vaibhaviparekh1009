@@ -1,14 +1,14 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Vaibhavi</h1>
-<h3 align="center">A passionate Computer Science student exploring Data Structures, Algorithms, and Web Development</h3>
+<h3 align="center">A passionate Computer Science student exploring Data Structures and Algorithms,Web Development and AI/ML </h3>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Currently pursuing **Computer Science and Engineering (GTU)**  
-- 💡 Passionate about **Problem-Solving, UI/UX, and Full-Stack Development**  
-- 🛠️ Exploring **DSA in Python & C++**, along with **MERN stack**  
+- 💡 Passionate about **Problem-Solving, UI/UX, AI/ML and Web Development**  
+- 🛠️ Exploring **DSA in Python**, along with **MERN stack**  
 - 📌 Building projects to make life simpler & efficient  
 
 ---
@@ -30,17 +30,6 @@
 
 ---
 
-## 📌 Featured Project
-
-### 📝 Task Management System (To-Do App)
-A **Task Management System** that helps users manage **daily, weekly, and monthly tasks** with features like:
-- 📊 Dashboard with task overview & completion percentage  
-- ⏰ Task-based alarms & notifications  
-- 📑 Reports & activity analysis  
-
-👉 *Built using modern web technologies with focus on usability & efficiency.*  
-
----
 
 ## 📊 GitHub Stats
 
