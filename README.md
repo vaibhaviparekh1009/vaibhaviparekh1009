@@ -34,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parekhvaibhavi11&show_icons=true&theme=radical" alt="Vaibhavi's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parekhvaibhavi11&layout=compact&theme=radical" alt="Vaibhavi's Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhaviparekh1009&show_icons=true&theme=radical" alt="Vaibhavi's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhaviparekh1009&layout=compact&theme=radical" alt="Vaibhavi's Top Languages" height="180"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=parekhvaibhavi11&theme=radical" alt="Vaibhavi's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=vaibhaviparekh1009&theme=radical" alt="Vaibhavi's GitHub Streak" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parekhvaibhavi11&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Vaibhavi's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhaviparekh1009&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Vaibhavi's GitHub Trophies"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parekhvaibhavi11&theme=react-dark" alt="Vaibhavi's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhaviparekh1009&theme=react-dark" alt="Vaibhavi's GitHub Activity Graph"/>
 </p>
 
 ---
