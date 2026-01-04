@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- Profile README -->
 
-<!--
-**vaibhaviparekh1009/vaibhaviparekh1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Vaibhavi</h1>
+<h3 align="center">A passionate Computer Science student exploring Data Structures, Algorithms, and Web Development</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Currently pursuing **Computer Science and Engineering (GTU)**  
+- 💡 Passionate about **Problem-Solving, UI/UX, and Full-Stack Development**  
+- 🛠️ Exploring **DSA in Python & C++**, along with **MERN stack**  
+- 📌 Building projects to make life simpler & efficient  
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Featured Project
+
+### 📝 Task Management System (To-Do App)
+A **Task Management System** that helps users manage **daily, weekly, and monthly tasks** with features like:
+- 📊 Dashboard with task overview & completion percentage  
+- ⏰ Task-based alarms & notifications  
+- 📑 Reports & activity analysis  
+
+👉 *Built using modern web technologies with focus on usability & efficiency.*  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parekhvaibhavi11&show_icons=true&theme=radical" alt="Vaibhavi's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parekhvaibhavi11&layout=compact&theme=radical" alt="Vaibhavi's Top Languages" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=parekhvaibhavi11&theme=radical" alt="Vaibhavi's GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parekhvaibhavi11&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Vaibhavi's GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parekhvaibhavi11&theme=react-dark" alt="Vaibhavi's GitHub Activity Graph"/>
+</p>
+
+---
+
+✨ *“Code is like art — every project is a new canvas to create something meaningful.”* ✨
